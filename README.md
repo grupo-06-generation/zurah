@@ -1,12 +1,11 @@
 # ZURAH [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
-## Sobre o Zurah 
-Zurah é um marketplace com o intuito de juntar os pequenos produtores com os restaurantes e consumidores finais, para que os pequenos produtores sejam beneficiados, auxiliando-os na competição sobre os grandes produtores e diminuindo assim a desigualdade de competição entre eles.
+## About Zurah 
+Zurah is a marketplace with the aim of bringing together small producers with restaurants and end consumers, so that small producers benefit, helping them compete against large producers and thus reducing the inequality of competition between them.
 
-Zurah é o Projeto Integrador do Grupo 6, que são alunos da turma 76 do bootcamp de Desenvolvimento Fulltack Java da Generation Brasil.
+Zurah is also the Project Integrator of Group 6, who are students from class 76 of Generation Brasil's Fullstack Java Development bootcamp.
 
-Esse grupo é composto por Bella Espósito, Fernanda Shinoda, Israel Oliveira, Julia Almeida, Marília Rodrigues, Michel Silva e Wallacy Menezes.
 
 ## Tecnologies Used
 
