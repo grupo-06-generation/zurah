@@ -2,7 +2,9 @@
 
 
 ## About Zurah 
-Zurah is a marketplace with the aim of bringing together small producers with restaurants and end consumers, so that small producers benefit, helping them compete against large producers and thus reducing the inequality of competition between them.
+Zurah is a marketplace with the aim of bringing together small producers with restaurants, snack bars and end consumers, so that small producers benefit, helping them compete against large producers and thus reducing the inequality of competition between them.
+
+The goal is to help both sides with financial acceleration and contribute to better nutrition for the population. The project is based on the UN's SDG 10, which focuses on reducing inequality and promoting population advancement.
 
 Zurah is also the Project Integrator of Group 6, who are students from class 76 of Generation Brasil's Fullstack Java Development bootcamp.
 
