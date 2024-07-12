@@ -8,7 +8,7 @@ Zurah é o Projeto Integrador do Grupo 6, que são alunos da turma 76 do bootcam
 
 Esse grupo é composto por Bella Espósito, Fernanda Shinoda, Israel Oliveira, Julia Almeida, Marília Rodrigues, Michel Silva e Wallacy Menezes.
 
-## Quais tecnologias utilizadas nesse projeto
+## Tecnologies Used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,21 +20,23 @@ Esse grupo é composto por Bella Espósito, Fernanda Shinoda, Israel Oliveira, J
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Instruções de Instalação
+## Installation Instructions
 
-## Instruções de Uso
+## Instructions for use
 
 ## API EndPoints
 
-## Licença
+## License
 
-### Olhar e se inspirar no projeto;
-### Inspirações apenas educacionais e não comerciais.
+* Look and be inspired by the project;
+* Educational and non-commercial inspirations only.
 
-## Contribuição
+## Contribution
 ### Git Flow
 Quais padrões os desenvolvedores devem seguir
 
 ```bash
 aqui informa algo em formado de código à ser copiado
 ```
+
+### Authors: Fernanda Shinoda, Bella Espósito, Israel Oliveira, Júlia Ribeiro, Marília Marques, Michel Gonçalves and Wallacy Menezes
